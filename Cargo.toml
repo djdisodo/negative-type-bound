@@ -1,0 +1,15 @@
+[package]
+name = "negative-type-bound"
+version = "0.1.0"
+edition = "2021"
+description = "provides negative type bound"
+license = "MIT"
+authors = ["sodo <djdisodo@gmail.com>"]
+readme = "README.md"
+categories = ["rust-patterns"]
+keywords = ["generic", "type", "bound", "specialization"]
+repository = "https://github.com/djdisodo/negative-type-bound"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
